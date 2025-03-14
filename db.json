@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://mojya.perfumesperfect.com//api_post.php",
-      "get": "https://mojya.perfumesperfect.com/api_get.php",
-      "server": "https://mojya.perfumesperfect.com/server_none.png",
-      "user": "https://mojya.perfumesperfect.com/user_ban.png"
+      "post": "https://mojy.hamrahapp.top//api_post.php",
+      "get": "https://mojy.hamrahapp.top/api_get.php",
+      "server": "https://mojy.hamrahapp.top/server_none.png",
+      "user": "https://mojy.hamrahapp.top/user_ban.png"
     }
   ]
 }
