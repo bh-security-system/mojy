@@ -1,8 +1,8 @@
 {
   "address": [
     {
-      "post": "https://mojy.hamrahapp.top//api_post.php",
-      "get": "https://mojy.hamrahapp.top/api_get.php",
+      "post": "https://mojy.hamrahapp.top//postN.php",
+      "get": "https://mojy.hamrahapp.top/getN.php",
       "server": "https://mojy.hamrahapp.top/server_none.png",
       "user": "https://mojy.hamrahapp.top/user_ban.png"
     }
